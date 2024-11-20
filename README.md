@@ -1,8 +1,8 @@
 Readme: Git Repository Robotics platform
 Progress report luhbots@work hardware department:
 
-This Git repository contains the assembly and parts folders with screenshots from the CAD-software. The folder "FotosVideos" contains photos of the manufacturing and construction process and the assembly of the physical robot.
-
+This Git repository contains the assembly and parts folders with screenshots from the CAD-software. The folder "FotosVideos" contains photos of the manufacturing and construction process and the assembly of the physical robot. On 
+I left luhbots@work on November 1st, 2023 to move to Zeiss SMT for my internship and master's thesis. The team disbanded in 2024. 
 
 Fortschrittsbericht der Hardware von luhbots@work:
 
